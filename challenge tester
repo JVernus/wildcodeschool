@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+     <meta charset="UTF-8">
+    <title>FindThePrecious</title>
+</head>
+
+<body>
+    <header>
+      <h1>FindThePrecious.com</h1><br/>
+      <nav>
+        <ul>
+
+            <li><a href="#Fellows">Fellows</a></li>
+            <li><a href="#TheRing">The Ring</a></li>
+            <li><a href="#GetMyRewards">Get my rewards</a></li>
+            <li><a href="#BestHunters">Best hunters</a></li>
+            <li><a href="#JoinTheArmy">Join the army</a></li>
+            <li><a href="#contact">Contact us</a></li>
+        </ul>
+        <a href="https://placeholder.com" ><img src="https://via.placeholder.com/140" alt = "" ></a>
+          Dangerous fellowship try to destroy the ring Orcs, Goblins, Balrogs, protect your master Sauron
+      </nav>
+  </header>
+ 
+    <section id= "Fellows">
+      <h2>Fellows wanted dead (or alive if you want to eat them later)</h2><br/>
+      <h3>Most wanted,Most dangerous,Already captured</h3>
+      <ul>
+        <li>
+          <h4>The Wizard</h4>
+          <p>Reward 1000 gold coins</p>
+            <label for="message">Small description...<br></label>
+            <textarea rows="3" cols="25" id="message" name="message"></textarea>
+        <li>
+          <h4>The hobbit #3</h4>
+            <label for="message1">Small description...<br></label>
+            <textarea rows="3" cols="25" id="message1" name="message1"></textarea>
+        <li>
+          <h4>Yummy Dwarf</h4>
+            <p>Reward 250 gold coins</p>
+            <label for="message2">Small description...<br></label>
+            <textarea rows="3" cols="25" id="message2" name="message2"></textarea>
+        </li>
+    </ul>
+  </section>
+   
+  <section id="TheRing">
+    <h2>I have captured one of them, how to get my reward ?</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum</p>
+    <a href="https://placeholder.com" ><img src="https://via.placeholder.com/140" alt = "" ></a><br/>
+    <a href="#contact">Contact us</a>
+ </section>
+ <section id= "BestHunters">
+   <h2>Best hunters</h2>
+    <ul>
+     <li>
+    <a href="https://placeholder.com" ><img src="https://via.placeholder.com/140" alt = "" ></a>
+    <h4>ElvesKiller22</h4>
+    <p>2 captures-<a href="#profile">profile</a></p>
+  <img src="https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C486e2d495d42486899d4e685ac04c6c2/projects/D8d77f1b3a0652f4724b0b7c1631a0c02/images/D15e2514740318a6264718a4e43706868" alt=""/>
+     <li>
+   <a href="https://placeholder.com" ><img src="https://via.placeholder.com/140" alt = "" ></a>
+    <h4>Goblin45</h4>
+    <p>1 capture-<a href="#profile">profile</a> </p>
+  <img src="https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C486e2d495d42486899d4e685ac04c6c2/projects/D8d77f1b3a0652f4724b0b7c1631a0c02/images/D15e2514740318a6264718a4e43706868" alt=""/>
+          </li>
+      </ul>
+   
+    </section>
+   <section>
+     <h2>About the ring</h2><br>
+     <h3>Ring Capabilities</h3>
+     <p>What can our master Sauron do with the ring ?</p>
+     
+      <table> 
+        <tr>
+          <th>Feature</th>
+          <td>Description</td>        
+        </tr>
+         <tr>          
+          <th>Main</th>
+          <td>One ring to rules them all</td>    
+        </tr>
+        <tr>         
+          <th>Invisibility</th>
+          <td>You can't see me</td>         
+        </tr>
+        <tr>          
+          <th>Power</th>
+          <td>Destroy the world</td>        
+        </tr>
+      </table>
+      <br><br>
+   <h3>Why the ring is awesome?</h3>
+     <p>My preciooooooussssss ! Hrk Hrk, we want our preeciooooouuusssss !! Gollum </p>
+   <a href="https://placeholder.com" ><img src="https://via.placeholder.com/110" alt = "" ></a><br/>
+    </section>
+  <section id= "JoinTheArmy">
+   <h2>Join Mordor Army, we need you !</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum</p>
+    <a href="https://placeholder.com" ><img src="https://via.placeholder.com/140" alt = "" ></a><br/>
+    <a href="#SauronRulesThemAll.com">More info on SauronRulesThemAll.com</a>
+ </section>
+  
+   <section id="contact">
+      <h2>Contact Us</h2>
+      
+      <form action= "https://codepen.io/Enigmhatik/pen/rQMLyb">
+        
+        
+        <label for="Email">Email:<br></label>
+        <input id="Email" type="text" /><br>
+        <label for="Adresse">adresse:<br></label>
+        <input id="Adresse" type="text" /><br> 
+        <p>I have seen one of them
+I have captured one of them
+          I want to join your army</p>
+        <label for="message3">Message:<br></label>
+        <textarea rows="5" cols="40" id="message3" name="message3"></textarea><br>
+        </form>
+</section>
+  <footer>
+    <ul>
+      
+      
+        <li><a href="#AboutUs" target="_blank">About us</a></li>
+        <li><a href="#Fellows" target="_blank">Fellows</a><br/></li>
+        <li><a href="#JoinTheArmy" target="_blank">Join the army</a></li>
+        <li><a href="#FAQ" target="_blank">FAQ</a></li>
+        <li><a href="#GetMyrewards" target="_blank">Reward conditions</a></li>
+        <li><a href="#LegalMentions" target="_blank">Legal mentions</a></li>
+        <li><a href="#Sauron4Ever.com" target="_blank">Sauron4ever.com</a></li>
+        <li><a href="#Twitter.com" target="_blank">Follow him also on twitter</a></li>
+      </ul>
+    </footer>
+  </body>
